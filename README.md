@@ -20,5 +20,52 @@ The system was validated through a series of controlled freezing experiments on 
 
 ---
 
-## 📂 Repository Structure
+
+
+## 🧪 Key Components
+
+- **Temperature monitoring** using thermistors (NTC)
+- **Capacitance sensing** with custom-designed parallel-plate capacitors
+- **MATLAB signal processing**: smoothing, gradient analysis, peak/trough detection
+- **Freezing point detection algorithms**:
+  - First local minimum of the gradient (pre-freezing signature)
+  - Standard deviation drop of the capacitance signal
+
+---
+
+## 📊 Results
+
+The detection system was capable of identifying the onset of freezing consistently across multiple trials and distances. Capacitance changes were shown to correlate with temperature drops and phase transitions, providing a reliable early indicator of ice formation.
+
+---
+
+## 🧰 Tools Used
+
+- MATLAB (R2023a)
+- Arduino & custom data logger
+- Thermistors & parallel-plate capacitive sensors
+- Peltier cells for controlled freezing
+- Heat sink and power supply
+- Excel / Origin for supplementary analysis
+
+---
+
+## 📎 Thesis
+
+📄 Final Thesis PDF (to be uploaded if publicly available)  
+🎓 Supervisor: [Noelia Vaquero Gallardo]  
+📍 UPC – Escola d’Enginyeria de Barcelona Est (EEBE)
+
+---
+
+## 📜 License
+
+This repository is licensed under the Creative Common License. Feel free to reuse and adapt the code and data with attribution.
+
+---
+
+## 🤝 Acknowledgments
+
+Special thanks to the Biomedical Engineering and Industrial Electronics departments at UPC-EEBE, and all the collaborators who supported this project.
+
 
