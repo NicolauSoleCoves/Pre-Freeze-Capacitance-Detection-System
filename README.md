@@ -50,7 +50,7 @@ The detection system was capable of identifying the onset of freezing consistent
 ## 📎 Thesis
 
 📄 [Final Thesis PDF – Report_And_Annex_Vol_I_Sole_Coves_Nicolau.pdf](https://github.com/NicolauSoleCoves/Pre-Freeze-Capacitance-Detection-System/blob/main/Report_And_Annex_Vol_I_Sole_Coves_Nicolau.pdf)  
-🎓 Supervisor: [Noelia Vaquero Gallardo]  
+🎓 Supervisor: [Noelia Vaquero Gallardo] (https://futur.upc.edu/NoeliaVaqueroGallardo)  
 📍 UPC – Escola d’Enginyeria de Barcelona Est (EEBE)
 
 ---
