@@ -12,9 +12,7 @@ The system was designed and validated to detect the onset of freezing in biologi
 Cryolipolysis is a widely used technique for aesthetic purposes that targets adipose tissue through controlled cooling. However, if the cooling is not properly regulated, it can lead to irreversible tissue damage.
 This thesis proposes a detection system that monitors both **temperature** and **capacitance** in real-time to identify the **onset of freezing** and anticipate the **exothermic peak** characteristic of phase change.
 
-The detection algorithm is based on two main approaches:
-- **Gradient-based analysis** of the capacitance signal
-- **Standard deviation thresholding** to detect signal stabilization
+The detection algorithm is based on **Standard deviation thresholding** to detect signal stabilization
 
 The system was validated through a series of controlled freezing experiments on fluid-mimicking samples using a thermistor and a parallel-plate capacitive sensor.
 
