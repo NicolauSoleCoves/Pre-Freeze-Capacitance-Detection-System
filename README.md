@@ -1,7 +1,7 @@
 # 🧊 Detection System for Preventing Tissue Damage in Cryotherapy  
 ### 📍 Bachelor’s Thesis – UPC-EEBE (Universitat Politècnica de Catalunya – Escola d’Enginyeria de Barcelona Est)
 
-This repository contains the experimental datasets, signal analysis scripts, and result visualizations developed for the Bachelor's Thesis **"Detection System for Preventing Tissue Damage in Cryotherapy through Temperature and Capacitance Monitoring"**.
+This repository contains the experimental datasets, signal analysis scripts, and result visualizations developed for the Bachelor's Thesis **"Detection System for Preventing Tissue Damage in Cryotherapy through Temperature and Capacitance Monitoring"** - UPC/EEBE.
 
 The system was designed and validated to detect the onset of freezing in biological tissues during cryotherapy, using a combination of temperature and capacitive sensing.
 
