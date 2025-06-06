@@ -60,7 +60,8 @@ The detection system was capable of identifying the onset of freezing consistent
 
 ## 📜 License
 
-This repository is licensed under the Creative Common License. Feel free to reuse and adapt the code and data with attribution.
+This repository is licensed under the Creative Common License.
+Feel free to reuse and adapt the code and data WITH ATTRIBUTION.
 
 ---
 
