@@ -26,8 +26,7 @@ The system was validated through a series of controlled freezing experiments on 
 - **Capacitance sensing** with custom-designed parallel-plate capacitors
 - **MATLAB signal processing**: smoothing, gradient analysis, peak/trough detection
 - **Freezing point detection algorithms**:
-  - First local minimum of the gradient (pre-freezing signature)
-  - Standard deviation drop of the capacitance signal
+  - Standard deviation thresholding of the capacitance signal
 
 ---
 
@@ -58,7 +57,7 @@ The detection system was capable of identifying the onset of freezing consistent
 
 ## 📜 License
 
-This repository is licensed under the Creative Common License.
+This repository and work is licensed under the Creative Common License.
 Feel free to reuse and adapt the code and data WITH ATTRIBUTION.
 
 ---
