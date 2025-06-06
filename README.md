@@ -9,7 +9,7 @@ The system was designed and validated to detect the onset of freezing in biologi
 
 ## 📖 Abstract
 
-Cryotherapy is a widely used technique for treating localized tissue damage and tumors through controlled freezing. However, uncontrolled overcooling can result in irreversible tissue damage.  
+Cryolipolysis is a widely used technique for aesthetic purposes that targets adipose tissue through controlled cooling. However, if the cooling is not properly regulated, it can lead to irreversible tissue damage.
 This thesis proposes a detection system that monitors both **temperature** and **capacitance** in real-time to identify the **onset of freezing** and anticipate the **exothermic peak** characteristic of phase change.
 
 The detection algorithm is based on two main approaches:
