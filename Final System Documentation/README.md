@@ -20,14 +20,10 @@ The system was designed to detect early changes in capacitance related to the on
 ### 🔹 Isometric View
 ![Isometric View](ISOMETRIC_VIEW_DETECTION_SYSTEM.png)
 
-> 📸 Images are located in the repository folder. If they do not display, ensure the file names match exactly (including spaces and capitalization).
+> 📸 Images are located in the repository folder.
 
 ## Author
 
 Nicolau Solé Coves  
-Biomedical Engineering & Industrial Electronics – UPC  
-Exchange @ TU Dresden
+Biomedical Engineering & Industrial Electronics – EEBE - UPC  
 
----
-
-Feel free to fork, cite, or contribute to the project.
