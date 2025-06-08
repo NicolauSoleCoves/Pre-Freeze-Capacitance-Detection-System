@@ -15,10 +15,10 @@ The system was designed to detect early changes in capacitance related to the on
 ## System Views
 
 ### 🔹 Top View
-![Top View](Top%20View.jpg)
+![Top View](TOP_VIEW_DETECTION_SYSTEM.png)
 
 ### 🔹 Isometric View
-![Isometric View](Isometric%20View.jpg)
+![Isometric View](ISOMETRIC_VIEW_DETECTION_SYSTEM.png)
 
 > 📸 Images are located in the repository folder. If they do not display, ensure the file names match exactly (including spaces and capitalization).
 
