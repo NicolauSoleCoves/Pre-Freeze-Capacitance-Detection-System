@@ -57,8 +57,7 @@ The detection system was capable of identifying the onset of freezing consistent
 
 ## 📜 License
 
-This repository and work is licensed under the Creative Common License.
-Feel free to reuse and adapt the code and data WITH ATTRIBUTION.
+This repository and its contents are licensed under a Creative Commons license and may not be used for commercial purposes.
 
 ---
 
